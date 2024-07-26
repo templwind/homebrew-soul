@@ -1,9 +1,9 @@
 class Soul < Formula
     desc "Soul CLI tool"
     homepage "https://github.com/templwind/soul"
-    url "https://github.com/templwind/soul/releases/download/v0.0.2/soul-v0.0.2-darwin-amd64.tar.gz"
-    version "0.0.2"
-    sha256 "3ea11a19eb396aad448b5fe99838ac67d9217ef04289dd03f20c78ea99a921aa"
+    url "https://github.com/templwind/soul/releases/download/v0.0.3/soul-v0.0.3-darwin-amd64.tar.gz"
+    version "0.0.3"
+    sha256 "d1f69b65e38e5f93e92b791d6c7d961874f426e9ade3bbc946d6c7f879a9c95f"
   
     def install
       bin.install "soul"
