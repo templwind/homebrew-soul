@@ -3,7 +3,7 @@ class Soul < Formula
     homepage "https://github.com/templwind/soul"
     url "https://github.com/templwind/soul/releases/download/v0.0.2/soul-v0.0.2-darwin-amd64.tar.gz"
     version "0.0.2"
-    sha256 "2b28bdb7a3c18882b9275f518f7b480496a9f1eee3a6dea14f79322da71dc5ad"
+    sha256 "857e7e0edb5dd7bff535f85ee0c3dda024501e862bd6be86a30ce35183f919c7"
   
     def install
       bin.install "soul"
